@@ -18,6 +18,14 @@ The goal:
 
 ---
 
+Here is a **clean, professional DIAGRAM** of your entire Agent 2 training pipeline.
+Formatted as **pure Markdown**, so you can paste it directly into your GitHub README.
+
+---
+
+# 🧩 **Agent 2 Training Pipeline — System Diagram**
+
+```
                          ┌──────────────────────────────────────┐
                          │          Street Fighter III           │
                          │    (DIAMBRA Engine - C++ backend)     │
@@ -110,6 +118,9 @@ The goal:
 │   Run with:                                                                │
 │      diambra run python agent.py                                           │
 └────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 
 # 🔴 Agent 1 — What Went Wrong
